@@ -5,7 +5,7 @@ To create a new client and send a message: `utility <client> (your message)` or 
 
 # LAUNCH
 
-This program supports multiple clients. 
+This program supports multiple clients, but has a limitation of 50 connected clients. 
 
 ### First step
 You have to create a server-app. Simply double-click winsocketTask.exe and write 
