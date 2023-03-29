@@ -1,4 +1,3 @@
-#pragma once
 #ifndef CLIENTFILE_H
 #define CLIENTFILE_H
 
